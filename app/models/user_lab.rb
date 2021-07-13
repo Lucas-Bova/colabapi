@@ -1,0 +1,2 @@
+class UserLab < ApplicationRecord
+end
